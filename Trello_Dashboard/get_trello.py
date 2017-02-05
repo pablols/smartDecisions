@@ -13,6 +13,9 @@ from trolly.checklist import Checklist
 from trolly.member import Member
 from trolly import ResourceUnavailable
 
+#Pablo recuerda comentar tus codigos !
+#Editado y subido command line por GIT
+
 
 api_key = 'c55e4cc78fed9752274056a24a5bbbf7'
 user_auth_token = 'aa7121a7a8cc263c91752c949055901e599890f463a592cb05d878fca47262e7'
